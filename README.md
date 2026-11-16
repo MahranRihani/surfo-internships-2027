@@ -34,3 +34,6 @@ If the link does not open your email client, you can send your application direc
 - **ext.imen.benamara@reseau.sncf.fr**
 
 **Email subject:** Application – DAS R&D Internships 2027
+
+> [!NOTE]
+> **These internships are open to students holding a valid residence permit issued by an EU member state.**
