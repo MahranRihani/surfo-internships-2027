@@ -8,13 +8,15 @@ The **SURFO team at SNCF Réseau** is offering **5 applied research internships*
 
 ## Internship Opportunities
 
-| Topic | Detailed Description |
-|---|---|
-| **1. 2D Localization of Vibration Events** | [View PDF](./Internship_2D%20Localisation%20of%20Vibration%20Events%20Using%20DAS.pdf) |
-| **2. Classification of Intrusion Events** | [View PDF](./Internship_Classification%20of%20Intrusion%20Events%20Using%20DAS.pdf) |
-| **3. Improving DAS Signal Quality** | [View PDF](./Internship_Improving%20DAS%20Signal%20Quality%20Through%20SP%20and%20AI.pdf) |
-| **4. Spatiotemporal Segmentation of DAS Data** | [View PDF](./Internship_Spatiotemporal%20Segmentation%20of%20DAS.pdf) |
-| **5. Towards a Self-Growing Training Dataset** | [View PDF](./Internship_Towards%20a%20Self-Growing%20Training%20Dataset.pdf) |
+
+| Internship Topic | Description | Availability |
+|---|---|---|
+| 2D Localisation of Vibration Events Using DAS | [PDF](./Internship_2D%20Localisation%20of%20Vibration%20Events%20Using%20DAS.pdf) | 🟢 **Open** |
+| Classification of Intrusion Events Using DAS | [PDF](./Internship_Classification%20of%20Intrusion%20Events%20Using%20DAS.pdf) | 🟢 **Open** |
+| Improving DAS Signal Quality Through Signal Processing and AI | [PDF](./Internship_Improving%20DAS%20Signal%20Quality%20Through%20SP%20and%20AI.pdf) | 🟢 **Open** |
+| Spatiotemporal Segmentation of DAS | [PDF](./Internship_Spatiotemporal%20Segmentation%20of%20DAS.pdf) | 🟢 **Open** |
+| Towards a Self-Growing Training Dataset | [PDF](./Internship_Towards%20a%20Self-Growing%20Training%20Dataset.pdf) | 🟢 **Open** |
+
 
 ## How to Apply
 
